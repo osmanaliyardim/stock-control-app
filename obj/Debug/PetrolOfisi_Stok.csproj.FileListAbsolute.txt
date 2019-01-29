@@ -1,0 +1,10 @@
+C:\Users\Ali\source\repos\PetrolOfisi_Stok\PetrolOfisi_Stok\bin\Debug\PetrolOfisi_Stok.exe.config
+C:\Users\Ali\source\repos\PetrolOfisi_Stok\PetrolOfisi_Stok\bin\Debug\PetrolOfisi_Stok.exe
+C:\Users\Ali\source\repos\PetrolOfisi_Stok\PetrolOfisi_Stok\bin\Debug\PetrolOfisi_Stok.pdb
+C:\Users\Ali\source\repos\PetrolOfisi_Stok\PetrolOfisi_Stok\obj\Debug\PetrolOfisi_Stok.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\PetrolOfisi_Stok\PetrolOfisi_Stok\obj\Debug\PetrolOfisi_Stok.Form1.resources
+C:\Users\Ali\source\repos\PetrolOfisi_Stok\PetrolOfisi_Stok\obj\Debug\PetrolOfisi_Stok.Properties.Resources.resources
+C:\Users\Ali\source\repos\PetrolOfisi_Stok\PetrolOfisi_Stok\obj\Debug\PetrolOfisi_Stok.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\PetrolOfisi_Stok\PetrolOfisi_Stok\obj\Debug\PetrolOfisi_Stok.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\PetrolOfisi_Stok\PetrolOfisi_Stok\obj\Debug\PetrolOfisi_Stok.exe
+C:\Users\Ali\source\repos\PetrolOfisi_Stok\PetrolOfisi_Stok\obj\Debug\PetrolOfisi_Stok.pdb
